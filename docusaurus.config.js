@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://dylan1496.github.io/reg-concerts/',
+  url: 'https://dylan1496.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/reg-concerts/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
