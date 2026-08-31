@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Reg Struck Back! The Reg Concert Repo`}
-      description="Description will go into a meta tag in <head />">
+      description="Home for Elton John Salvation Discord Server concert information">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
